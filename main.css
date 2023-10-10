@@ -1,0 +1,54 @@
+body {
+  background-color: #E5FFE8; 
+  
+}
+
+#Intro {
+    font-family: "Times New Roman", Times, serif;
+    color: #c0dfa1;
+    font-size: 20px;
+    font-weight: bold;
+    border:#82A3A1 dotted 5px;
+    margin-bottom: 25px;
+}   
+
+
+#OMNIA {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #A1B58D;
+  border:#011936 groove 5px;
+  margin-bottom: 25px;
+}
+
+
+#AHEAD {
+  font-family: 'Courier New', Courier, monospace;
+  color: #697A57;
+  border:#697A57 dotted 5px;
+  margin-bottom: 25px;
+}
+
+
+#DYOPATH {
+  font-family: "Times New Roman", Times, serif;
+  color: #455347;
+  border:#82A3A1 dashed 5px;
+  margin-bottom: 25px;
+}
+
+
+#AMZ {
+  font-family:Arial, Helvetica, sans-serif;
+  color: #101310;
+  border:#C0DFA1 double 5px;
+  margin-bottom: 25px;
+}
+
+
+
+
+
+\\Each article should use a different font family.
+All article headings should be the same font color (don't be boring).
+Site should have a background color or background image. Images google filtered for "Royalty Free"
+Each article should have a different border(weight,style,color).
